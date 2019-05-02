@@ -1,2 +1,3 @@
-# tensorboard_colab
-Setup TensorBoard with Google Colab
+# How to use TensorBoard with Google Colab
+
+Simple setup to use TensorBoard with Google Colab
